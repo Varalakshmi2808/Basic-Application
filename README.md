@@ -13,16 +13,18 @@
   <ul>
     <li>
       For frontend
-      <p>React</p>
-      <p>HTML</p>
-      <p>CSS</p>
-      <p>JavaScript</p>
+      <ol>
+      <li>React</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      </ol>
     </li>
     <li>
       For Bcakend
-      <p>Express js</p>
-      <p>Node js</p>
-      <p>Mongodb</p>
+      <li>Express js</li>
+      <li>Node js</li>
+      <li>Mongodb</li>
     </li>
   </ul>
     
