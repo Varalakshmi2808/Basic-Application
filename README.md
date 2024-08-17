@@ -1,4 +1,4 @@
-<h3>Basic react application</h3>
+<h3>Basic MERN application</h3>
 <ol>
   <li>What user can do in this application
 <ul>
